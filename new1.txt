@@ -5,3 +5,6 @@ this is a 1th add.
 this is main add 1th.
 this is dev add.
 
+
+test for git mrege -no-ff.
+
