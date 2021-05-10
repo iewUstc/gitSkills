@@ -8,3 +8,5 @@ this is dev add.
 
 test for git mrege -no-ff.
 
+fixed a bug.
+
