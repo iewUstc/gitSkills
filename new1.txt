@@ -3,3 +3,5 @@ this is a new file.
 this is a 1th add.
 
 this is dev add.
+
+test for git mrege -no-ff.
