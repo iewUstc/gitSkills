@@ -8,3 +8,5 @@ this is dev add.
 
 test for git mrege -no-ff.
 
+fix bug on branch main, this stash
+
